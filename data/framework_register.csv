@@ -1,0 +1,13 @@
+source_id,publisher,title,version_or_date,url,role_in_this_project
+F-NIST-161,NIST,SP 800-161 Rev. 1 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations,May 2022; errata update Nov 2024,https://csrc.nist.gov/pubs/sp/800/161/r1/upd1/final,Primary C-SCRM reference; supplier criticality tiering; control mapping
+F-NIST-1326,NIST,SP 1326 - C-SCRM Due Diligence Assessment Quick-Start Guide,"Final, 2026-07-08",https://csrc.nist.gov/pubs/sp/1326/final,Defines basic (public-information) vs enhanced due diligence and five assessment components; used to scope this project
+F-NIST-30,NIST,SP 800-30 Rev. 1 - Guide for Conducting Risk Assessments,Sep 2012,https://csrc.nist.gov/pubs/sp/800/30/r1/final,Likelihood x impact reasoning; semi-quantitative 5-level scales; uncertainty and assumptions documentation
+F-NIST-CSF2,NIST,"Cybersecurity Framework 2.0 (Govern function, GV.SC supply-chain category)",Feb 2024,https://www.nist.gov/cyberframework,Control mapping (function.category identifiers)
+F-NIST-53,NIST,SP 800-53 Rev. 5 - Security and Privacy Controls (incl. SR supply-chain family),Rev. 5 (update 1),https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final,Control mapping (control identifiers)
+F-ISO-27001,ISO/IEC,ISO/IEC 27001:2022 - Information security management systems (Annex A 5.19-5.23 supplier and cloud controls),2022,https://www.iso.org/standard/27001,Control mapping (Annex A references); certificate interpretation. Standard text is paywalled and is not reproduced
+F-ISO-27036,ISO/IEC,ISO/IEC 27036 series - Information security for supplier relationships,Parts 1-4,https://www.iso.org (catalogue),"Structure of supplier due diligence, agreements and monitoring. Standard text is paywalled and is not reproduced"
+F-ISO-31000,ISO,ISO 31000:2018 - Risk management guidelines,2018,https://www.iso.org/iso-31000-risk-management.html,"Risk process: context, identification, analysis, evaluation, treatment, monitoring, communication"
+F-ISO-27005,ISO/IEC,ISO/IEC 27005:2022 - Information security risk management,2022,https://www.iso.org (catalogue),Information-security-specific risk assessment method
+F-ISO-42001,ISO/IEC,ISO/IEC 42001:2023 - AI management systems,2023,https://www.iso.org/standard/42001,Interpretation of the AI governance control (AI-01)
+F-AICPA-TSC,AICPA,"SOC 2 Trust Services Criteria (Common Criteria CC1-CC9, A1, C1, P-series)","2017 criteria, revised points of focus 2022",https://www.aicpa-cima.com (SOC suite),Cross-reference from controls to SOC 2 criteria
+F-GDPR,European Union,"Regulation (EU) 2016/679 - Articles 28, 33, 44-46",2016,https://eur-lex.europa.eu/eli/reg/2016/679/oj,"Processor obligations, breach notification 'without undue delay', international transfers"

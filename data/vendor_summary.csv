@@ -1,0 +1,4 @@
+vendor,tier,controls,addressed,partial,not_evidenced,reviewer_limited,independent_evidence_controls,impact_weighted_coverage_pct,medium,high,critical,max_residual
+Greenhouse Software,2,27,21,5,1,0,6,77.6,24,2,1,20
+Atlassian,1,27,21,6,0,0,4,79.3,25,2,0,15
+Notion,2,27,23,4,0,0,4,86.2,26,1,0,15

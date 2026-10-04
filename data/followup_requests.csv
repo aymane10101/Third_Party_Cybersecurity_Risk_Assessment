@@ -1,0 +1,17 @@
+vendor,control_id,requirement,coverage,residual_rating,reviewer_limited,follow_up_action
+Atlassian,IAM-04,Access review and timely termination,Partial,High,N,Ask for review frequency and de-provisioning SLA.
+Atlassian,DAT-02,Data retention and deletion,Partial,High,N,Confirm product-specific deletion timing and backup/record-retention periods.
+Atlassian,ASSUR-01,SOC 2 Type II,Partial,Medium,N,Confirm report scope covers JSM and other in-scope products; obtain FY26 report and bridge letter.
+Atlassian,ASSUR-03,"Privacy assurance (ISO/IEC 27701, 27018 or equivalent)",Partial,Medium,N,Ask whether ISO 27701 is held or planned.
+Atlassian,SUP-03,Cyber insurance / financial backstop,Partial,Medium,N,Request insurance certificate.
+Atlassian,ASSUR-04,Evidence currency,Partial,Medium,N,Obtain the FY26 SOC 2 report and bridge letter; request FY27 timeline.
+Greenhouse Software,IAM-04,Access review and timely termination,Not evidenced,Critical,N,Request evidence of periodic access reviews and timely termination/deprovisioning.
+Greenhouse Software,IAM-02,Multi-factor authentication,Partial,High,N,"Ask whether MFA can be enforced for all users and admins, and which factors are supported."
+Greenhouse Software,IR-02,Customer incident notification with a defined timeframe,Partial,High,N,Confirm the contractual customer-notification timeframe in the license agreement/MSA.
+Greenhouse Software,BC-01,Disaster recovery,Partial,Medium,N,Request BC/DR summary with RTO/RPO and dated test results or testing cadence.
+Greenhouse Software,DAT-05,Data residency and international transfer mechanism,Partial,Medium,N,Ask whether EU-only hosting is available; verify DPF registry entry.
+Greenhouse Software,ASSUR-04,Evidence currency,Partial,Medium,N,Obtain SOC 2 period end date and bridge letter.
+Notion,DAT-02,Data retention and deletion,Partial,High,N,Ask for deletion timeframe after termination.
+Notion,ASSUR-03,"Privacy assurance (ISO/IEC 27701, 27018 or equivalent)",Partial,Medium,N,Request ISO 27701 and 27018 certificates.
+Notion,DAT-05,Data residency and international transfer mechanism,Partial,Medium,N,Ask which transfer mechanism applies and whether region pinning is available.
+Notion,SUP-03,Cyber insurance / financial backstop,Partial,Medium,N,Request certificate showing cyber liability limits and renewal.
